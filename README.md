@@ -36,3 +36,7 @@ Fieldlight also develops the public artifacts required to make this work legible
 Fieldlight is being built in public as a research skunkworks: small, focused, artifact-driven, and willing to work at the edges of existing categories.
 
 This repository is expected to evolve. Its early purpose is to make the institute's questions, commitments, and operating structure visible from the beginning.
+
+## Copyright And Use
+
+This repository is public for reading and citation, but it is not open-licensed by default. See [Copyright And Use](COPYRIGHT.md).
