@@ -4,6 +4,10 @@ This repository contains the founding documents for Fieldlight Institute.
 
 Fieldlight Institute is an independent research initiative focused on intelligence infrastructure, consciousness research, and governance for AI-mediated human systems.
 
+## Founding Draft
+
+- [Fieldlight Institute Charter](CHARTER.md)
+
 ## Purpose
 
 Fieldlight exists to develop public research, protocols, and institutional artifacts for a world in which advanced AI systems are becoming both infrastructure and intimate participants in human life.
