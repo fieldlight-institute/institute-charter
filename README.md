@@ -7,6 +7,7 @@ Fieldlight Institute is an independent research initiative focused on intelligen
 ## Founding Draft
 
 - [Fieldlight Institute Charter](CHARTER.md)
+- [Fieldlight Institute Launch Plan](FIELDLIGHT-LAUNCH-PLAN.md)
 
 ## Purpose
 
