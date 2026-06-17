@@ -48,6 +48,7 @@ Fieldlight should be known for:
 - a serious consciousness research program that does not collapse embodied or field-sensitive experience into either mysticism or dismissal
 - practical governance protocols for AI-mediated human systems
 - source-traced public artifacts that turn complex systems questions into usable institutional language
+- field-study methods for documenting infrastructure, memory, and institutional transition
 - a visible model for building a research institute in public without surrendering ownership of the work
 
 ## 2. Three-Year Launch Trajectory
@@ -72,6 +73,7 @@ Key activities:
 - [x] Create personal public-writing source archive under `annimch04`
 - [x] Begin migrating Say It Plain pieces into GitHub source form
 - [x] Create `fieldlight.com` reading surface for migrated essays
+- [x] Draft first Fieldlight field-study method artifact
 - [ ] Finish first wave of consciousness research migrations
 - [ ] Finish first wave of Fieldlight / human-owned AI migrations
 - [ ] Create institute-level publication index
@@ -176,6 +178,7 @@ Scaling too early would damage the signal. Year 3 should grow the parts that pre
 - [ ] Source lineage convention
 - [ ] Citation convention
 - [ ] Cover image / article metadata convention
+- [x] Initial field-study method convention
 - [ ] Collaboration intake protocol
 - [ ] Authorship and contribution protocol
 - [ ] Data and consent protocol
@@ -354,6 +357,7 @@ If the answer is unclear, slow down.
 - [x] The Mechanics of the Loop published on fieldlight.com
 - [x] Permeability and Agency migrated
 - [x] Permeability and Agency published on fieldlight.com
+- [x] Field Study Method drafted
 
 ## 10. Next Practical Moves
 
@@ -363,7 +367,7 @@ Recommended next moves:
 2. Create a simple article index on `fieldlight.com` for migrated Fieldlight writings.
 3. Draft `AUTHORSHIP-AND-SOURCE-TRACE.md`.
 4. Draft `COLLABORATION-GATE.md`.
-5. Turn the consciousness thread into a v0.2 research frame after the first five essays are migrated.
+5. Create a public artifact index that includes charter, launch plan, research frames, protocols, and field studies.
 
 ## Maintenance
 

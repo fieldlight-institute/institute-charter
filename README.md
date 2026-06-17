@@ -8,6 +8,7 @@ Fieldlight Institute is an independent research initiative focused on intelligen
 
 - [Fieldlight Institute Charter](CHARTER.md)
 - [Fieldlight Institute Launch Plan](FIELDLIGHT-LAUNCH-PLAN.md)
+- [Field Study Method](FIELD-STUDY-METHOD.md)
 
 ## Purpose
 
@@ -31,6 +32,8 @@ A research program on consciousness, memory, identity, consent, continuity, subj
 ## Institutional Operating Layer
 
 Fieldlight also develops the public artifacts required to make this work legible and usable: charters, protocols, field notes, working papers, governance templates, and publications.
+
+The institute also develops field-study methods for documenting places where infrastructure, memory, governance, and transition become visible.
 
 ## Working Model
 
