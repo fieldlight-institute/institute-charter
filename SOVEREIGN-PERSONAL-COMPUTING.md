@@ -1,147 +1,181 @@
 # Sovereign Personal Computing
 
-Status: Founding doctrine 0.1  
-Created: June 2026
+Status: Founding doctrine 0.2  
+Created: June 2026  
+Updated: June 2026
 
-Fieldlight is not only a research institute, software project, or publication surface.
+Fieldlight is not building a Linux distribution.
 
-Fieldlight names a direction for personal computing: a human-owned machine, operating system, identity layer, memory substrate, agent environment, communication mesh, public square, and archive.
+Fieldlight is not building a laptop.
 
-The goal is not another platform that captures a person's digital life.
+Fieldlight is not building an AI assistant.
 
-The goal is a replacement container for a person's digital life.
+Fieldlight is designing a sovereign computing architecture from silicon to society.
 
-## Premise
+The goal is to replace the modern trust stack with one where authority originates with the human and is delegated outward rather than extracted upward.
 
-AI systems are becoming intimate infrastructure. They participate in memory, authorship, decision-making, relationships, search, work, attention, and public life.
+Hardware, operating system, identity, memory, agents, communication, authorship, governance, and public space are all part of the same system.
 
-If intelligence is becoming infrastructure, then the personal computer must become a governed trust boundary again.
+The laptop is merely the first embodiment.
 
-Fieldlight begins from the view that a person should be able to own the machine, the memory, the identity layer, the agent authority model, and the conditions under which anything leaves the machine.
+## Core Claim
 
-The product is not software alone.
+The objective is not a better computer.
 
-It is a human-owned computing stack.
+The objective is a new category of human-owned computing where the machine understands who it belongs to, what it knows, what it is permitted to do, and how to explain itself.
+
+Fieldlight exists to make that category legible, buildable, governable, and eventually usable by ordinary people.
 
 ## Stack
 
-The Fieldlight stack is organized as:
+The Fieldlight stack extends from silicon to society:
 
-1. Hardware
-2. Operating system
-3. Identity
-4. Sanctum
-5. Agents
-6. Mesh
-7. Town Square
-8. Archive
+1. Silicon
+2. Hardware
+3. Firmware
+4. Operating system
+5. Identity
+6. Sanctum
+7. Agents
+8. Mesh
+9. Authorship
+10. Governance
+11. Public space
+12. Archive
+13. Society
 
-Each layer answers a different question.
+Each layer participates in the same authority model.
 
-Hardware asks what the person can physically trust.
+Silicon and hardware define what can be sensed, accelerated, secured, isolated, repaired, replaced, and trusted.
 
-The operating system asks what can run, see, remember, change, and leave.
+Firmware and the operating system define what can boot, run, see, remember, change, explain, and leave.
 
-Identity asks who is acting, under whose authority, with what continuity across devices.
+Identity defines who the machine belongs to and under whose authority action occurs.
 
-Sanctum asks what belongs to the person's private memory, authorship, and lived continuity.
+Sanctum defines continuity: identity, memory, agency, provenance, consent state, and lived context.
 
-Agents ask what has been delegated, for how long, under what constraints, with what record.
+Agents define delegated action.
 
-Mesh asks what is shared with whom.
+Mesh defines inter-node communication, coordination, delegation, and shared presence.
 
-Town Square asks what is intentionally public.
+Authorship defines origin, contribution, revision, citation, publication, and rights.
 
-Archive asks what survives migration, institutional failure, hardware replacement, and time.
+Governance defines how power is granted, constrained, audited, disputed, and revoked.
 
-## Fieldlight-Native Machine
+Public space defines intentional visibility and civic participation.
 
-A Fieldlight-native machine is not defined first by industrial design, processor choice, or branding.
+Archive defines what survives time, hardware replacement, migration, institutional failure, and death.
 
-It is defined by its answers to these questions:
+Society is not downstream from the machine. Society is part of what the machine is built to serve.
 
-- Who owns memory?
+## Authority Direction
+
+Modern computing usually moves authority upward:
+
+- from person to account
+- from account to platform
+- from platform to cloud
+- from cloud to model provider
+- from model provider to opaque policy and infrastructure
+
+Fieldlight reverses the direction.
+
+Authority begins with the human.
+
+The human delegates authority outward to the machine, the operating system, agents, services, collaborators, institutions, and public surfaces.
+
+Delegation must be explicit, scoped, revocable, inspectable, and explainable.
+
+## Fieldlight, Sanctum, Mesh, Astra
+
+Fieldlight is the philosophy and architecture.
+
+Sanctum is continuity, identity, memory, and agency.
+
+Mesh is inter-node communication and delegation.
+
+Astra is the first sovereign citizen of the stack.
+
+These are not separate apps arranged around a platform. They are parts of one sovereign computing architecture.
+
+## First Embodiment
+
+The first embodiment may look like a laptop because a laptop is the current consumer form factor for a portable personal computer.
+
+But the laptop is not the category.
+
+The category is sovereign personal computing.
+
+The first Fieldlight machine must be commercially usable, locally powerful, and understandable to normal people. It must be sized to hold the whole loop locally: memory, identity, agents, communication, authorship, governance, public expression, and archive.
+
+The machine is not a demonstration of the doctrine.
+
+The machine is where the doctrine becomes enforceable.
+
+## System Questions
+
+A Fieldlight-native machine must answer:
+
+- Who does this machine belong to?
 - Where does identity live?
+- What does the machine know?
+- How does it know it?
+- What is private, shared, synced, model-visible, published, or archived?
 - What can leave the machine?
 - What requires consent?
 - How do agents receive authority?
+- How is authority revoked?
+- How does the machine explain what happened?
 - What survives hardware replacement?
-- What is public by default?
-- What is local by default?
+- What survives institutional failure?
+- What is public only by intention?
 
-These are operating-system questions before they are application questions.
+These are not application preferences. They are architecture requirements.
 
 ## Operating Commitments
 
-### Local By Default
+### Human-Originated Authority
 
-Private memory, personal identity, and agent working context should begin local. Networked services may extend the system, but they should not be the default owner of the person.
+The human is the source of authority. Systems may receive delegated authority, but they do not own the person, the memory, the identity, or the record.
+
+### Local First, Not Local Only
+
+The loop should be able to run locally. Networked services may extend the system, but they should not be required to own identity, memory, agency, or continuity.
 
 ### Consent As Architecture
 
-Consent should be explicit, scoped, revocable, traceable, and enforceable at the system layer. No consent state, no access.
-
-### Agent Authority By Grant
-
-Agents should not inherit ambient power from applications or accounts. They should operate through named grants that specify what they can see, remember, change, share, purchase, publish, or execute.
+Consent should be explicit, scoped, revocable, traceable, enforceable, and understandable. No consent state, no access.
 
 ### Memory With Provenance
 
-Memory should preserve origin, context, authorship, permission, revision, and use. Memory is not only storage. It is continuity with a record.
+Memory should preserve origin, context, authorship, permission, revision, and use. Memory is continuity with a record.
 
-### Public Is Intentional
+### Agent Authority By Delegation
 
-The system should distinguish local, private, shared, synced, published, model-visible, and archived states. Visibility is not surrender.
+Agents should act through named grants. A grant should specify what an agent can see, remember, change, send, buy, publish, execute, or refuse.
 
-### Continuity Survives Hardware
+### Public Space By Intention
 
-The person should be able to replace a machine without losing identity, memory, authority history, authorship trace, or archive continuity.
+The system must distinguish private, shared, synced, agent-visible, model-visible, published, and archived states. Visibility is not surrender.
 
-## Relationship To Institute Work
+### Explanation As Obligation
 
-This doctrine extends Fieldlight's existing commitments:
+A Fieldlight-native machine should be able to explain what it knows, why it acted, under what authority, and what record remains.
 
+## Institute Priority
+
+Sovereign personal computing is a key Fieldlight Institute output priority.
+
+It belongs under the Institute because it is the applied architecture that joins the Institute's existing commitments:
+
+- intelligence infrastructure
+- consciousness, memory, identity, and continuity
+- consent and human-subject governance
+- authorship and source trace
+- non-extractive public systems
 - human-owned signal
-- consent as architecture
-- authorship and trace
-- local-first memory
-- non-extractive infrastructure
-- power with a record
 
-It also connects the institute's research pillars.
+The work is not a fresh side project.
 
-Intelligence infrastructure studies the material and political substrate of AI systems. Sovereign personal computing asks what substrate is required at the scale of a single human-owned machine.
-
-The consciousness research program studies memory, identity, consent, continuity, subjectivity, and human-AI interaction. Sovereign personal computing asks how those concerns become operating-system architecture.
-
-Governance protocols make authority legible. Sovereign personal computing asks how authority can be enforced by the machine itself.
-
-## Development Path
-
-Fieldlight should not begin by manufacturing a laptop.
-
-The development path is:
-
-1. Define what makes a machine Fieldlight-native.
-2. Build the operating doctrine and architecture.
-3. Prototype the OS layer on existing hardware.
-4. Publish a reference hardware specification.
-5. Ship prebuilt machines with a coherent Fieldlight experience.
-6. Consider custom hardware only after the OS has taught the machine what it needs to be.
-
-The early work belongs in public architecture artifacts, not in premature industrial design.
-
-## Short Form
-
-Mac-level coherence. Linux-level ownership. Human-level consent.
-
-Fieldlight is the philosophy.
-
-Sanctum is identity and memory.
-
-Mesh is communication.
-
-Astra is the first lived node.
-
-The machine is the trust boundary.
+It is a logical evolution of Fieldlight's core research into a full-stack computing architecture.
 
