@@ -9,6 +9,7 @@ Fieldlight Institute is an independent research initiative focused on intelligen
 - [Fieldlight Institute Charter](CHARTER.md)
 - [Fieldlight Institute Launch Plan](FIELDLIGHT-LAUNCH-PLAN.md)
 - [Field Study Method](FIELD-STUDY-METHOD.md)
+- [Sovereign Personal Computing](SOVEREIGN-PERSONAL-COMPUTING.md)
 
 ## Purpose
 
